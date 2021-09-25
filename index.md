@@ -52,6 +52,7 @@ I love play outdoor sports like Football and Cricket and am also part of UCSD Cr
 > Dream and live dream and it will become reality one day. Be the most powerful mind magnet.
 
 ### Code to live by 
+
 ~~~python
 while (alive):
     eat(toSatisfaction = true)
